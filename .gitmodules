@@ -8,5 +8,5 @@
 	path = dial-basic-nodes
 	url = git@github.com:JDM-ULL-93/dial-basic-nodes.git
 [submodule "Dial-Debugging"]
-	path = Dial-Debugging
+	path = dial-visualization
 	url = git@github.com:JDM-ULL-93/Dial-Debugging.git
