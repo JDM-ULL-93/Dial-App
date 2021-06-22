@@ -1,0 +1,12 @@
+[submodule "dial-core"]
+	path = dial-core
+	url = git@github.com:JDM-ULL-93/dial-core.git
+[submodule "dial-gui"]
+	path = dial-gui
+	url = git@github.com:JDM-ULL-93/dial-gui.git
+[submodule "dial-basic-nodes"]
+	path = dial-basic-nodes
+	url = git@github.com:JDM-ULL-93/dial-basic-nodes.git
+[submodule "Dial-Debugging"]
+	path = Dial-Debugging
+	url = git@github.com:JDM-ULL-93/Dial-Debugging.git
