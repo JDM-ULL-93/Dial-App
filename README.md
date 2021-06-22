@@ -85,5 +85,5 @@ Dial-App supports a special mode so you can work with not configured python pack
 }
 ```
 
-By doing that, a temporary package will be created to load dial visualization plugin
+By adding 'path' entry, dial_visualization python code will be lodead inside program memory to work with. No actual "dial-visualization" package is created.
 
