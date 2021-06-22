@@ -12,9 +12,9 @@ All code is provided under the __GPL-3.0__ license. See [LICENSE](LICENSE) for m
 ## Authors
 
 * **David Afonso (davafons)**: [Github](https://github.com/davafons) [Twitter](https://twitter.com/davafons)
-** dial-core
-** dial-gui
-** dial-basic-nodes
+	* dial-core
+	* dial-gui
+	* dial-basic-nodes
 
 * **Javier Duque Melguizo**: [Github](https://github.com/JDM-ULL-93)
-** dial-Visualization
+	* dial-Visualization
