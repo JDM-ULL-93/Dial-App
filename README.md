@@ -24,10 +24,10 @@ All code is provided under the __GPL-3.0__ license. See [LICENSE](LICENSE) for m
 1) Download this repository
 
 ```bash
-git clone git@github.com:JDM-ULL-93/Dial-App.git
+git clone --recurse-submodules git@github.com:JDM-ULL-93/Dial-App.git
 ```
 
-2) Then install modules
+2) Install modules
 
 ```bash
 
