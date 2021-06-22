@@ -15,22 +15,22 @@ def main(sys_args: List = sys.argv[1:]):
     Args:
         sys_args: A list of arguments from the command line.
     """
-    import dial_core
+    try:
+        import dial_core
+        app_config = dial_core.utils.initialization.parse_args(sys_args)
 
-    # Parse arguments
-    app_config = dial_core.utils.initialization.parse_args(sys_args)
-
-    # Initialize
-    from dial_gui.utils import initialization
-
-    initialization.initialize(app_config)
-
-    from dial_gui import app
-
-    # Run
-    sys.exit(app.run(app_config))
+        # Initialize
+        from dial_gui.utils import initialization
+        initialization.initialize(app_config)
     
+        # Run
+        from dial_gui import app
+        sys.exit(app.run(app_config))
+    except ModuleNotFoundError as ex:
+        print("Module not found error. Error : {} \nTry running 'install.py' first".format(ex))
+        sys.exit(0)
+        # Parse arguments
+    return
 
 
-if __name__ == "__main__":
-    main()
+main()

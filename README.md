@@ -21,20 +21,26 @@ All code is provided under the __GPL-3.0__ license. See [LICENSE](LICENSE) for m
 
 ## Installation
 
-To install modules
+1) Download this repository
+
+```bash
+git clone git@github.com:JDM-ULL-93/Dial-App.git
+```
+
+2) Then install modules
 
 ```bash
 
 py install.py 
 ```
 
-To execute app:
+3) Execute app:
 
 ```bash
 py main.py
 ```
 
-To uninstall modules installed on install phase:
+4) If you want to clear installed modules, run:
 
 ```bash
 py clean.py
