@@ -49,12 +49,12 @@ py clean.py
 
 ## Configuration
 
-After executing app for first time
+**After executing app for first time**
 
 * On Linux: Go to ~/dial/plugins
 * On Windows: Go to %userprofile%\AppData\Local\dial\plugins
 
-Or simple open the directory by clicking here in the app:
+Or simplli open the directory by clicking here in the app:
 
 <img src="menu.png" style="margin:10px"/>
 
