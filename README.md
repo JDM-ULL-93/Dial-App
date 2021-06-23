@@ -1,9 +1,9 @@
 # Dial-App
-BDial-App to program convolutional neural network with nodes.
+Dial-App to program convolutional neural network with nodes.
 
 ## Documentation
 
-This project's documentation lives at [readthedocs.io](https://dial-basic-nodes.readthedocs.io)
+This project's documentation lives at [readthedocs.io](https://dial-app.readthedocs.io)
 
 ## License
 
