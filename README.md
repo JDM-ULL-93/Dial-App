@@ -56,9 +56,8 @@ After executing app for first time
 
 Or simple open the directory by clicking here in the app:
 
-<div style="margin:0 auto;">
-	 <img src="menu.png"/>
-</div>
+<img src="menu.png" style="margin:10px"/>
+
 And set up **plugins.json** like so:
 ```json
 {
