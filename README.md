@@ -49,9 +49,13 @@ py clean.py
 
 ## Configuration
 
+After executing app for first time
+
 * On Linux: Go to ~/dial/plugins
 * On Windows: Go to %userprofile%\AppData\Local\dial\plugins
 
+Or simple open the directory by clicking here in the app:
+<img src="menu.png" />
 And set up **plugins.json** like so:
 ```json
 {
