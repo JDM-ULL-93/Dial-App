@@ -1,5 +1,5 @@
-# dial-basic-nodes
-Basic nodes for DL tasks, used by the Dial app.
+# Dial-App
+BDial-App to program convolutional neural network with nodes.
 
 ## Documentation
 
