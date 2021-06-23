@@ -54,7 +54,7 @@ py clean.py
 * On Linux: Go to ~/dial/plugins
 * On Windows: Go to %userprofile%\AppData\Local\dial\plugins
 
-Or simplily open the directory by clicking here in the app:
+Or just open the directory by clicking here on the app:
 
 <img src="menu.png" style="margin:10px"/>
 
