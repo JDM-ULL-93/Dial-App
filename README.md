@@ -55,9 +55,10 @@ After executing app for first time
 * On Windows: Go to %userprofile%\AppData\Local\dial\plugins
 
 Or simple open the directory by clicking here in the app:
-</br>
-<img src="menu.png" style="margin:0 auto;"/>
-</br>
+
+<div style="margin:0 auto;">
+	 <img src="menu.png"/>
+</div>
 And set up **plugins.json** like so:
 ```json
 {
